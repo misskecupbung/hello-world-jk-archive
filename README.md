@@ -1,1 +1,1 @@
-# hello-world-jk.
+# hello-world-jk
